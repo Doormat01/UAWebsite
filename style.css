@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg)
+}
+#UMF{
+    display:block; 
+    margin: 0 auto;
+}
+.WM{
+    animation: fadeIn 5s;
+    text-align: center;
+    font-size: 25px;
+    color: #005aba;
+    font-family: sans-serif, monospace;
+    display:block; 
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.logo{
+    font-family: sans-serif, monospace;
+    cursor: default;
+}
+.FP{
+    animation: fadeIn 5s;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif, monospace;
+    cursor: default;
+}
+.logo{
+    animation: fadeIn 5s;
+    text-align: left;
+    font-size: 30px;
+    color: white;
+    cursor: default;
+}
+#Casualties{
+    opacity: .0;
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif, monospace;
+    cursor: default;
+}
+button{
+    animation: fadeIn 5s;
+    display: inline-block;
+    background-color: #d6ba00;
+    width: 200px;
+    color: #7f6f00;
+    text-align: center;
+    border: 4px #cccccc;
+    border-radius: 10px;
+    font-size: 28px;
+    cursor: pointer;
+    margin: 5px;
+    transition: all 0.5s;
+    font-family: sans-serif, monospace;
+  }
+button:hover {
+    background-color: rgb(127, 111, 0);
+  }
+#LO{
+    opacity: .0;
+}

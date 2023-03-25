@@ -1,0 +1,5 @@
+accounts.json needs to be fixed
+Make EMCD array work with login
+Save LoggedIn into the json file but then make it false after an ammount of time
+Make lg.js take the data from Main.html and red/write it
+Make DC text change to the day count

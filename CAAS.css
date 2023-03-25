@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
+}
+button {
+    position: relative;
+    left: 880px;
+    top: 100px;
+    text-align: center;
+    display: inline-block;
+    background-color: #d6ba00;
+    width: 150px;
+    color: #7f6f00;
+    text-align: center;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    font-size: 28px;
+    cursor: pointer;
+    margin: 5px;
+    transition: all 0.5s; /* add this line */
+  }
+  button:hover {
+    background-color: rgb(127, 111, 0);
+  }
+.WhiteBG{  
+    cursor: default;
+    position: relative;
+    left: 860px;
+    top: 280px;
+    font-size: 25px;
+    color: white;
+    font-family: initial;
+    z-index: 1;
+
+}
+.square
+{
+  height: 356px;
+  width: 306px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  background-color: #003961;
+  position: relative;
+  left: 805px;
+  top: 220px;
+
+}
+#email{
+  position: relative;
+  top: 120px;
+  left: 70px;
+  background: transparent;
+  color: #fff;
+  font-family: initial;
+}
+#password{
+  position: relative;
+  top: 140px;
+  left: 70px;
+  background: transparent;
+  color: #fff;
+  font-family: initial;
+}
+.createAcc{
+  position: relative;
+  left: 835px;
+  top: 90px;
+  font-size: 25px;
+  color: white;
+  font-family: initial;
+  z-index: 1;
+  cursor: default;
+}
+#CA{
+  color: #d6ba00;
+  cursor: pointer;
+}
